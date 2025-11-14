@@ -1,0 +1,2 @@
+#Thsi is README
+##BUKAN REDMI
